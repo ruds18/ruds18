@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Rudransh from India , and I develop websites based on react and other awesome frameworks . I am highly  passionate about about  MERN stack devlopment. I also enjoy wireframing,ui,ux and design in general. You can also  check out my twitter or instagram .
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruds18)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ruds18/ruds18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
