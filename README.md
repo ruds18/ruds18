@@ -1,5 +1,5 @@
 # Heyy there 👋, I'm Rudransh Khandelwal
-## React developer 
+# React developer 
 
 I'm Rudransh from India, and I develop websites based on react and other awesome frameworks. I am highly passionate about MERN stack development. I also enjoy wireframing, UI, UX, and design in general. You can also check out my Twitter or Instagram.
 
