@@ -19,8 +19,8 @@ I'm Rudransh from India, and I develop websites based on react and other awesome
 ## My Works😊
 <div class="works">
   <img src="https://github.com/ruds18/ruds18/blob/main/ezgif.com-gif-maker.gif" width="260" />
-<img src="https://github.com/ruds18/ruds18/blob/main/output_bfymn0.gif" width ="260" /><
-  /div>
+<img src="https://github.com/ruds18/ruds18/blob/main/output_bfymn0.gif" width ="260" />
+  </div>
 
 
 
