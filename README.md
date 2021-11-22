@@ -1,20 +1,23 @@
-### Hi there 👋
+### Heyy there 👋, I'm Rudransh Khandelwal
+#### React developer 
 
-I'm Rudransh from India , and I develop websites based on react and other awesome frameworks . I am highly  passionate about about  MERN stack devlopment. I also enjoy wireframing,ui,ux and design in general. You can also  check out my twitter or instagram .
+I'm Rudransh from India, and I develop websites based on react and other awesome frameworks. I am highly passionate about MERN stack development. I also enjoy wireframing, UI, UX, and design in general. You can also check out my Twitter or Instagram.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruds18)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / JS / HTML / CSS/ PHP
 
-<!--
-**ruds18/ruds18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Crazy VITians 
+- 👯 I’m looking to collaborate on React based projects 
+- 🤔 I’m looking for help with backend  
+- 📫 How to reach me: rudranshkhandelwal123@gmail.com 
+- 😄 Pronouns: Ruds 
+- ⚡ Fun fact: I know it's crazy, but I love to talk a lot !!😁 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ruds18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_ruds_19//)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruds18&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ruds18)  
+
+
+
