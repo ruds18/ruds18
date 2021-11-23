@@ -13,7 +13,7 @@ I'm Rudransh from India, and I develop websites based on react and other awesome
 - 👯 I’m looking to collaborate on React based projects 
 - 🤔 I’m looking for help with backend  
 - 📫 How to reach me: rudranshkhandelwal123@gmail.com 
-- 😄 Pronouns: Ruds 
+- 😄 Pronouns: He
 - ⚡ Fun fact: I know it's crazy, but I love to talk a lot !!😁 
 
 ## My Works😊
