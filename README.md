@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rudransh Khandelwal😎</h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">React Devloper</h1>
+<h1 align="center"> 🚀 React Devloper</h1>
 
 I'm Rudransh from India, and I develop websites based on react and other awesome frameworks. I am highly passionate about MERN stack development and I also enjoy wireframing, UI, UX, and design in general. You can also check out my Twitter or Instagram.
 
