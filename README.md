@@ -27,9 +27,11 @@ I'm Rudransh from India, and I develop websites based on react and other awesome
 
 ## Overview😎
 
+<div>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruds18&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ruds18)  
+</div>
 
 
 
